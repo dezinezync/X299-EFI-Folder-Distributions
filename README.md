@@ -1,6 +1,11 @@
 # X299-EFI-Folder-Distributions
 X299 EFI Archive for Asus X299 Deluxe II Motherboard and 9940X CPU. 
 
+### 2022-03-27
+- Added macOS 12.3 EFI for MacPro7,1
+- Added 5700XT device properties for correctly functioning 5700XT under macOS 12.3 (thanks to tedyun for the patch).
+- Updated kexts. 
+
 ### 2022-03-09
 - Added Monterey EFI for MacPro7,1 based on the Asus X299 Deluxe II BIOS version 3601 (released on 2021/11/10).
 - Disable Resize bar in BIOS before using. 
